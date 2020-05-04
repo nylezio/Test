@@ -1,5 +1,6 @@
 package test;
 
+
 import org.junit.Test;
 
 /**
@@ -8,6 +9,7 @@ import org.junit.Test;
  * @date: 2020/04/01 18:50
  */
 public class WrapperTest {
+
     @Test
     public void test1(){
         Integer in1 = 3;

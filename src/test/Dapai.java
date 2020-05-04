@@ -1,7 +1,8 @@
 package test;
 
-import java.util.*;
 import org.junit.Test;
+
+import java.util.*;
 
 /**
  * @author liusandao
