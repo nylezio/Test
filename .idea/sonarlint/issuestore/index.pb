@@ -39,3 +39,27 @@ F
 src/mtituan/Main4.java,6\2\62be4a567a3e134957cab05e9a4812466ad02ed3
 H
 src/bytedance/Main2.java,c\e\cee8ddb8f60d010f00b4071fcdf013b574694222
+O
+src/test/IntegerAndIntTest.java,a\f\af7764f9f53ae43393d45a984322f7af25cf6be0
+I
+src/test/HashMapTest.java,6\a\6ad3cf08540931e265fb3bbca4e7ceacc6e3320f
+E
+src/huawei/Main1.java,1\3\133cebf0ba1e632fe0d111110da57f681aea76de
+G
+src/huawei/Main1_1.java,5\b\5b61f37965d9384d1439d64ea47119369b406ad3
+F
+src/mtituan/Main3.java,c\a\ca2de01769f46d6577b4a4641edeeeda719dfc99
+F
+src/mtituan/Main5.java,f\2\f2593c8521506506a19619f835e32352a3adde3b
+E
+src/huawei/Main2.java,d\b\db217f3430848855547c067a7f971ad1664e9573
+E
+src/huawei/Main3.java,8\7\87a3c4f19aaaa1088d6b4df434baace6ca779f7a
+B
+src/test/Shot.java,2\6\26b6b614e51a5f28cdae457d51530944ea03d0d0
+D
+src/test/Animal.java,9\2\928acb05208fa00c6a48302249b86d7d145f244d
+F
+src/sevencow/Main.java,1\e\1e1c42747ea91d950a9b57c0f2bf3469e8248855
+E
+src/test/Main111.java,8\d\8dfabfe72a50dd69c96e18618f1b779e1f18bac0
