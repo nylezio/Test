@@ -1,6 +1,4 @@
 
-I
-src/zhousai/Reformat.java,2\3\2312a6d14d9825e6184b1631e74ba8a2725d73fd
 E
 src/test/SetTest.java,e\2\e2cc1fc6ba8fcc28d00480c61d3cbdec6a025a8a
 I
@@ -19,10 +17,6 @@ C
 src/test/Dapai.java,f\3\f34e2114f0756bc2b972a43f8439472aa822e063
 B
 src/t360/Main.java,6\6\66572cf9f03115f7b9bf46bb8d5e019a958df708
-A
-src/ali/Main.java,f\4\f42c337e057b72d7618f4667574711034f2ad502
-B
-src/ali/Main2.java,6\7\67a90119de7e43b1a28b403ecbeabcbbadc3bcad
 G
 src/test/PriceTest.java,5\0\50bcc50d4ea2e202d29171f19b9a8a4adb49b543
 F
@@ -87,3 +81,10 @@ F
 src/test/Solution.java,9\d\9decde4902095b5d82c9d9b29ee70cbbb47dbed8
 F
 src/test/ThreeSum.java,c\5\c56c06c48ca40fbc18c985a814bb14849caf8305
+C
+src/TrackBrack.java,f\d\fdc55c0eb2a6b72e64c8514aa451a0029c0e9915
+A
+src/Solution.java,e\6\e69bf9f9fa39dd11b637f1006bcf9ba6c739a9b6
+:
+
+src/K.java,6\6\66ebeb6c9e691ac83955a252fa04ae96ae8f05af

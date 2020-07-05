@@ -1,4 +1,4 @@
-package ali;
+package alibaba;
 
 import java.util.Scanner;
 public class Main2 {

@@ -1,4 +1,4 @@
-package ali;
+package alibaba;
 
 import java.util.LinkedList;
 import java.util.Scanner;
